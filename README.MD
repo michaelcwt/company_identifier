@@ -13,4 +13,3 @@
 - I have used a palm2 model provided by google and you will need to use your own API key to access. Unfortunetly under regional restriction, I will not able to provide any demo here.
 - Personally, I think GPT 3.5 or latest version will perform even better, same API key will be needed and higher cost.
 - Lastly, if we have multiple website as example, we could provide one-shot or few-shot learning to LLM, which will helps to ace better result.
-# company_identifier
